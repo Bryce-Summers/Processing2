@@ -1,0 +1,1 @@
+Right off the bat, I wish that I could export my meshes as SVG files. It will be a bit cumbersome to composite the png files.

@@ -1,0 +1,46 @@
+{
+  "/xPerspective": {
+    "min": 0,
+    "max": 1.440000057220459,
+    "value": 1.0471975803375244
+  },
+  "/speed": {
+    "min": 0,
+    "max": 0.20000000298023224,
+    "value": 0.009999999776482582
+  },
+  "/maxTime": {
+    "min": 4000,
+    "max": 10000,
+    "value": 4000
+  },
+  "/show_particles": {"value": 1},
+  "/moveSpeed": {
+    "min": 10,
+    "max": 150,
+    "value": 73
+  },
+  "/dampening": {
+    "min": 0,
+    "max": 1,
+    "value": 0.7
+  },
+  "/show_oscill": {"value": 1},
+  "/show_grid": {"value": 1},
+  "/maxDistance": {
+    "min": 500,
+    "max": 1000,
+    "value": 1000
+  },
+  "/maxAmp": {
+    "min": 10,
+    "max": 100,
+    "value": 50
+  },
+  "/bEnergy": {"value": 1},
+  "/waveLength": {
+    "min": 0.06283185631036758,
+    "max": 0.0062831854447722435,
+    "value": 0.024543695151805878
+  }
+}

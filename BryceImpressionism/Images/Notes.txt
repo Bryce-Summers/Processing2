@@ -1,0 +1,13 @@
+Here is what I can vary:
+
+I can very the alpha to increase the saturation.
+
+
+normalized scaling of the impressions controls the alpha value.
+
+dx *= 10 // Full coverage.
+dy *= 10 // 
+
+dx *= 5 // circulation_9, most coverage.
+
+less, see circulation 7 and 8.
